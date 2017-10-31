@@ -1,0 +1,18 @@
+{
+  "pins": [
+    {
+      "id": 1,
+      "title": "PSU Phuket",
+      "photo": "https://vignette3.wikia.nocookie.net/lego/images/a/ac/No-Image-Basic.png",
+      "lat": "7.9043092",
+      "lng": "98.34783080000001",
+      "description": "ffd",
+      "buliding": "Buliding1",
+      "room": "1006",
+      "day": "31",
+      "month": "10",
+      "year": "2017",
+      "timeline": "Today"
+    }
+  ]
+}
